@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/YOLANDA/LameFPS_GD12/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/FirstPerson/Blueprints/BP_AnimTestPawn.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/ABP_Character.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/Aim_Space_Hip.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Left_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Left_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Left_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Right_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Right_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Right_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Left_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Left_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Left_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Right_Center.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Right_Up.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Right_Down.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/AO_Hip.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/AO_Ironsights.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Hip/Aim_Space_Hip_Centere.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Left_.uasset",
+				"D:/YOLANDA/LameFPS_GD12/Content/AnimStarterPack/AimOffset_Ironsights/Aim_Space_Ironsights_Right_U.uasset"
+			]
+		}
+	]
+}
